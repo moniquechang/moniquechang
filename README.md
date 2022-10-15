@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **moniquechang/moniquechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/103399595/195723346-86cc2334-b108-4ef4-9bfe-6dbf6c7171df.jpg)
+
+### Hello 👋  My name is Monique!
+
+🔭 I’m currently working on adding more features on my project [SurfWrite](https://github.com/moniquechang/SurfWrite)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=moniquechang&theme=vue&)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquechang&hide=stars,contribs&show_icons=true&theme=vue&card_width=460px)
