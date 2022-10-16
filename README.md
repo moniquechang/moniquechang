@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 
 ![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/103399595/195723346-86cc2334-b108-4ef4-9bfe-6dbf6c7171df.jpg)
 
-### Hello 👋  My name is Monique!
+## Hello 👋  My name is Monique!
 
-🔭 I’m currently working on adding more features on my project [SurfWrite](https://github.com/moniquechang/SurfWrite)
+### A Little About Me..
+I am a Full Stack Web Developer that likes to find solutions to problems! I am currently looking for a jr. developer position, and want to expand my skillset as much as I can!
 
+- 🌊 I’m currently working on adding more features on my project [SurfWrite](https://github.com/moniquechang/SurfWrite)
+- 🏖️ A fun fact about me is that I love the beach and swimming in the ocean
+- Chemistry 👩‍🔬 ➡️ Web Development 💻
+- 🌐 Lets Connect through [LinkedIn](https://www.linkedin.com/in/moniqueychang)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquechang&hide=stars,contribs&show_icons=true&theme=vue&card_width=500px)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moniquechang&theme=vue&)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquechang&hide=stars,contribs&show_icons=true&theme=vue&card_width=460px)
+📚 Stack
+
+🪛 Tools
+
