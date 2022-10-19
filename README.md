@@ -26,7 +26,7 @@ I am a Full Stack Web Developer that likes to find solutions to problems! I am c
 
 👩‍🔬 Chemistry  ➡️  Web Development 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquechang&hide=stars,contribs&show_icons=true&theme=vue&card_width=500px)
+![Monique's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquechang&hide=stars,contribs&show_icons=true&theme=vue&card_width=500px)
 
 📚 Stack
 
