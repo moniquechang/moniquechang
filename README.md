@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 I am a Full Stack Web Developer that likes to find solutions to problems! I am currently looking for a jr. developer position, and want to expand my knowledge in JavaScript and React as well as broaden my skillset as much as I can!
 
 🌊 I’m currently working on adding more features on my project [SurfWrite](https://github.com/moniquechang/SurfWrite)
+   
+ 🖥️ I am also working on practicing [algorithms](https://github.com/moniquechang/algorithms)
 
 🏖️ When I'm not coding, I love going to the beach
 
